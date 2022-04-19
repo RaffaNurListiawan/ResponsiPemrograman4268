@@ -1,0 +1,5 @@
+D:\SEMESTER 2\ResponsiPemrograman\ResponsiPemrograman4268\ResponsiPemrograman4268\bin\Debug\ResponsiPemrograman4268.exe.config
+D:\SEMESTER 2\ResponsiPemrograman\ResponsiPemrograman4268\ResponsiPemrograman4268\bin\Debug\ResponsiPemrograman4268.exe
+D:\SEMESTER 2\ResponsiPemrograman\ResponsiPemrograman4268\ResponsiPemrograman4268\bin\Debug\ResponsiPemrograman4268.pdb
+D:\SEMESTER 2\ResponsiPemrograman\ResponsiPemrograman4268\ResponsiPemrograman4268\obj\Debug\ResponsiPemrograman4268.exe
+D:\SEMESTER 2\ResponsiPemrograman\ResponsiPemrograman4268\ResponsiPemrograman4268\obj\Debug\ResponsiPemrograman4268.pdb
